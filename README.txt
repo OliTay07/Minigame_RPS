@@ -1,9 +1,16 @@
+Rock, Paper, Scissors Game
 
-Project Title: Rock, Paper, Scissors - C++ Console Minigame
--------------------------------
+Overview:
+This is a simple command-line Rock, Paper, Scissors game written in C++. The game allows the player to play against the computer, where the computer's choice is randomly generated. The game continues until the player decides to quit.
 
-Description: A simple command-line RPS game written in C++ (for practice). The user plays against the computer.
--------------------------------
+Features:
+- Player can choose Rock, Paper, or Scissors
+- Computer's choice is randomly generated
+- Game determines the winner based on the classic rules of Rock, Paper, Scissors:
+  - Rock beats Scissors
+  - Scissors beats Paper
+  -Paper beats Rock
+-Option to play again after each round
 
-Features: Single-player game (vs Computer)
--------------------------------
+Technologies Used:
+- C++
